@@ -6,7 +6,7 @@ contact: shelby bachman ([sbachman@usc.edu](mailto:sbachman@usc.edu))
 
 ### project organization on Flywheel
 
-- Scans for your project must be on Flywheel, in a single project, and must be named and organized following bids convention [more info](https://bids-specification.readthedocs.io/en/stable/). This section provides a minimal explanation of what that means.
+- Scans for your project must be on Flywheel, in a single project, and must be named and organized following bids convention ([more info](https://bids-specification.readthedocs.io/en/stable/)). This section provides a minimal explanation of what that means.
 - Subject labels are required and must be unique for each subject. Example subject label: `sub-1001`
 - If you have more than one session per subject, the sessions must be named in bids convention and consistent across participants. Example session label: `ses-pre`
 - Acquisition labels must be consistent across all sessions. Recommended acquisition labels: `T1w` for MPRAGE scans and `acq-FSE_T1w` for FSE scans.
